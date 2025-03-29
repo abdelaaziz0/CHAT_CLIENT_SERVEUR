@@ -6,11 +6,17 @@
 
 ## 📋 Fonctionnalités
 ✔️ Communication en temps réel entre clients via un serveur central.
+
 ✔️ Gestion des utilisateurs avec pseudonymes uniques.
+
 ✔️ Création et gestion de salons de discussion.
+
 ✔️ Envoi de messages privés et publics.
+
 ✔️ Transfert de fichiers en mode pair-à-pair.
+
 ✔️ Support multi-clients avec `poll()`.
+
 ✔️ Vérification et gestion des erreurs réseau.
 
 ---
